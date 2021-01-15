@@ -35,7 +35,8 @@ public class Sokoban extends JFrame {
 
 
 
-    /**Metodo main eseguibile**/
+    /**Metodo main eseguibile
+     * @param  args run project**/
     public static void main(String[] args) {
 
         /** Crea un evento (Runnable) alla fine dell'elenco degli eventi Swings

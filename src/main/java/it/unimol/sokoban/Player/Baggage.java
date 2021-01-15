@@ -26,7 +26,7 @@ public class Baggage extends Actor {
     }
 
     /** Metodo che setta i movimenti di una pedina
-     * @param x
+     * @param x posizione della pedina
      * @param y posizione della pedina**/
     public void move(int x, int y) {
 

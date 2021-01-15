@@ -25,7 +25,7 @@ public class Player extends Actor {
     }
 
     /** Metodo che setta i movimenti di una giocatore
-     * @param x
+     * @param x posizione del sokoban
      * @param y posizione dell sokoban**/
     public void move(int x, int y) {
 

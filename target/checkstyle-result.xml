@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\Iannuccillo\Desktop\Sokoban\src\main\java\it\unimol\sokoban\Player\Actor.java">
+</file>
+<file name="C:\Users\Iannuccillo\Desktop\Sokoban\src\main\java\it\unimol\sokoban\Player\Baggage.java">
+</file>
+<file name="C:\Users\Iannuccillo\Desktop\Sokoban\src\main\java\it\unimol\sokoban\Player\Player.java">
+</file>
+<file name="C:\Users\Iannuccillo\Desktop\Sokoban\src\main\java\it\unimol\sokoban\Sokoban.java">
+</file>
+<file name="C:\Users\Iannuccillo\Desktop\Sokoban\src\main\java\it\unimol\sokoban\World\Area.java">
+</file>
+<file name="C:\Users\Iannuccillo\Desktop\Sokoban\src\main\java\it\unimol\sokoban\World\Board.java">
+</file>
+<file name="C:\Users\Iannuccillo\Desktop\Sokoban\src\main\java\it\unimol\sokoban\World\Wall.java">
+</file>
+</checkstyle>

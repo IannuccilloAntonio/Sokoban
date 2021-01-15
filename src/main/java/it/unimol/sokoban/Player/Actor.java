@@ -27,10 +27,12 @@ public class Actor {
         image = img;
     }
     /** Posizioni x e y di un attore**/
+
+    /**@return coordinate x**/
     public int getX() {
         return x;
     }
-
+    /**@return coordinate y**/
     public int getY() {
         return y;
     }
