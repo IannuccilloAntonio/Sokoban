@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="it"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Player.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Sokoban</a> &gt; <a href="index.source.html" class="el_package">it.unimol.sokoban.Player</a> &gt; <span class="el_source">Player.java</span></div><h1>Player.java</h1><pre class="source lang-java linenums">package it.unimol.sokoban.Player;
+
+import java.awt.Image;
+import javax.swing.ImageIcon;
+
+/**Classe che crea e gestisce un sokoban
+ * @author Iannuccillo Antonio
+ * @version 1.0
+ * **/
+public class Player extends Actor {
+
+    public Player(int x, int y) {
+<span class="fc" id="L13">        super(x, y);</span>
+
+<span class="fc" id="L15">        initPlayer();</span>
+<span class="fc" id="L16">    }</span>
+
+    /**Metodo che inizializza il giocatore settandone l'immagine
+     * **/
+    private void initPlayer() {
+        /** L'oggetto conterrà l'immagine del sokoban **/
+<span class="fc" id="L22">        ImageIcon iicon = new ImageIcon(&quot;src/main/java/resources/sokoban.png&quot;);</span>
+<span class="fc" id="L23">        Image image = iicon.getImage();</span>
+<span class="fc" id="L24">        setImage(image);</span>
+<span class="fc" id="L25">    }</span>
+
+    /** Metodo che setta i movimenti di una giocatore
+     * @param x
+     * @param y posizione dell sokoban**/
+    public void move(int x, int y) {
+
+        /*Lo spostamento del sokoban sarà dato dalla somma della x della classe attore
+         * più la x del sokoban. Di quanti passi si muove */
+<span class="nc" id="L34">        int dx = getX() + x;</span>
+<span class="nc" id="L35">        int dy = getY() + y;</span>
+
+<span class="nc" id="L37">        setX(dx);</span>
+<span class="nc" id="L38">        setY(dy);</span>
+<span class="nc" id="L39">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>
