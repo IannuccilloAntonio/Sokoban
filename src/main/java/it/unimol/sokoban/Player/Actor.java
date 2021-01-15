@@ -14,7 +14,6 @@ public class Actor {
     private int y;
     private Image image;
 
-
     public Actor(int x, int y) {
         this.x = x;
         this.y = y;
