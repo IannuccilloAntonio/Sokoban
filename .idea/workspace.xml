@@ -2,29 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f11db020-633b-433a-9a1f-304a992bdaa5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sokoban.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sokoban.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Baggage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Baggage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Sokoban.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Sokoban.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/World/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/World/Board.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Sokoban-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Sokoban-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/Player/Actor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/Player/Baggage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/Player/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/Sokoban.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/World/Area.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/World/Board$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/World/Board$TAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/World/Board.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/World/Wall.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban.Player/Actor.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban.Player/Actor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban.Player/Actor.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban.Player/Actor.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban.Player/Baggage.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban.Player/Baggage.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban.Player/Player.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban.Player/Player.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban.World/Board.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban.World/Board.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban/Sokoban.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban/Sokoban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban/Sokoban.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/it.unimol.sokoban/Sokoban.java.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/jacoco-sessions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/Actor.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/Actor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/Baggage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/Baggage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/Player.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/Player.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/class-use/Actor.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/class-use/Actor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/class-use/Baggage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/class-use/Baggage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/class-use/Player.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/class-use/Player.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Player/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Sokoban.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/Sokoban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/Area.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/Area.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/Board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/Wall.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/Wall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/class-use/Area.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/class-use/Area.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/class-use/Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/class-use/Board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/class-use/Wall.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/class-use/Wall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/World/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/class-use/Sokoban.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/class-use/Sokoban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/it/unimol/sokoban/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/javadoc/apidocs/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/javadoc/apidocs/serialized-form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-it.unimol.sokoban.World.BoardTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-it.unimol.sokoban.World.BoardTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/it.unimol.sokoban.World.BoardTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/it.unimol.sokoban.World.BoardTest.txt" afterDir="false" />
     </list>
@@ -38,10 +65,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="488">
               <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
               <folding>
                 <element signature="e#569#570#0" expanded="true" />
@@ -92,11 +119,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="45" column="78" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+            <state relative-caret-position="272">
+              <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -183,12 +210,12 @@
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/World/Wall.java" />
         <option value="$PROJECT_DIR$/.github/workflows/maven.yml" />
         <option value="$PROJECT_DIR$/checkstyle.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Baggage.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Sokoban.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/World/Board.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -275,14 +302,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610709989712" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610710993556" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_251/jre" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -334,6 +361,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -349,7 +377,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32850242" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32850242" />
@@ -481,13 +509,6 @@
     <entry file="file://$PROJECT_DIR$/target/checkstyle-result.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="45" column="78" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Baggage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -548,7 +569,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="488">
           <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
           <folding>
             <element signature="e#569#570#0" expanded="true" />
@@ -563,16 +584,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>unnamed</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

@@ -27,34 +27,36 @@ public class Actor {
 <span class="fc" id="L27">        image = img;</span>
 <span class="fc" id="L28">    }</span>
     /** Posizioni x e y di un attore**/
-    public int getX() {
-<span class="nc" id="L31">        return x;</span>
-    }
 
+    /**@return coordinate x**/
+    public int getX() {
+<span class="nc" id="L33">        return x;</span>
+    }
+    /**@return coordinate y**/
     public int getY() {
-<span class="nc" id="L35">        return y;</span>
+<span class="nc" id="L37">        return y;</span>
     }
 
     public void setX(int x) {
-<span class="nc" id="L39">        this.x = x;</span>
-<span class="nc" id="L40">    }</span>
+<span class="nc" id="L41">        this.x = x;</span>
+<span class="nc" id="L42">    }</span>
 
     public void setY(int y) {
-<span class="nc" id="L43">        this.y = y;</span>
-<span class="nc" id="L44">    }</span>
+<span class="nc" id="L45">        this.y = y;</span>
+<span class="nc" id="L46">    }</span>
 
     /** Metodo per controllo della collisione verso sinistra
      * @param actor il sokoban o pedina
      * @return true se si trovano nella stessa posizione , false altrimenti**/
     public boolean isLeftCollision(Actor actor) {
-<span class="nc bnc" id="L50" title="All 4 branches missed.">        return getX() - SPACE == actor.getX() &amp;&amp; getY() == actor.getY();</span>
+<span class="nc bnc" id="L52" title="All 4 branches missed.">        return getX() - SPACE == actor.getX() &amp;&amp; getY() == actor.getY();</span>
     }
 
     /** Metodo per controllo della collisione verso destra
      * @param actor il sokoban o pedina
      * @return true se si trovano nella stessa posizione, false altrimenti**/
     public boolean isRightCollision(Actor actor) {
-<span class="nc bnc" id="L57" title="All 4 branches missed.">        return getX() + SPACE == actor.getX() &amp;&amp; getY() == actor.getY();</span>
+<span class="nc bnc" id="L59" title="All 4 branches missed.">        return getX() + SPACE == actor.getX() &amp;&amp; getY() == actor.getY();</span>
     }
 
     /** Metodo per controllo della collisione verso l'alto se l'attore di muove in vero negativo delle ascisse
@@ -62,7 +64,7 @@ public class Actor {
      * @param actor il sokoban o pedina
      * @return true se si trovano nella stessa posizione, false altrimenti**/
     public boolean isTopCollision(Actor actor) {
-<span class="nc bnc" id="L65" title="All 4 branches missed.">        return getY() - SPACE == actor.getY() &amp;&amp; getX() == actor.getX();</span>
+<span class="nc bnc" id="L67" title="All 4 branches missed.">        return getY() - SPACE == actor.getY() &amp;&amp; getX() == actor.getX();</span>
     }
 
     /** Metodo per controllo della collisione verso l'alto se l'attore di muove in vero positivo delle ascisse
@@ -70,7 +72,7 @@ public class Actor {
      * @param actor il sokoban o pedina
      * @return true se si trovano nella stessa posizione, false altrimenti**/
     public boolean isBottomCollision(Actor actor) {
-<span class="nc bnc" id="L73" title="All 4 branches missed.">        return getY() + SPACE == actor.getY() &amp;&amp; getX() == actor.getX();</span>
+<span class="nc bnc" id="L75" title="All 4 branches missed.">        return getY() + SPACE == actor.getY() &amp;&amp; getX() == actor.getX();</span>
     }
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>
