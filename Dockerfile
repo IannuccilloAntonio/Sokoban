@@ -10,6 +10,7 @@ RUN apt-get -y upgrade
 RUN apt-get install unzip
 RUN apt-get install -y libxrender1 libxtst6 libxi6
 
-RUN unzip jar-artifact.zip && rm jar-artifact.zip
 
-CMD ["java", "-jar", "Sokoban-1.0-SNAPSHOT.jar"]
+
+ENTRYPOINT ["java","-jar","build/Sokoban-1.0.jar"]
+CMD ["-start"]
