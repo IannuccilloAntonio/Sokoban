@@ -7,11 +7,12 @@
 
     <groupId>it.unimol</groupId>
     <artifactId>Sokoban</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <jdk.version>1.8</jdk.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
@@ -49,7 +50,7 @@
                             <mainClass>it.unimol.sokoban.Sokoban</mainClass>
                         </manifest>
                     </archive>
-                    <outputDirectory>${project.build.directory}/build</outputDirectory>
+                    <outputDirectory>${project.basedir}/build</outputDirectory>
                 </configuration>
             </plugin>
 

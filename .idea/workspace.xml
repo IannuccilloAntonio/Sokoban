@@ -4,50 +4,6 @@
     <list default="true" id="f11db020-633b-433a-9a1f-304a992bdaa5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Sokoban-1.0-SNAPSHOT-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Sokoban-1.0-SNAPSHOT-javadoc.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Actor.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Actor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Baggage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Baggage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Player.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Player.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Actor.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Actor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Baggage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Baggage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Player.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Player.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Sokoban.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Sokoban.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Area.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Area.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Board.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Wall.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Wall.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Area.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Area.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Board.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Wall.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Wall.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/class-use/Sokoban.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/class-use/Sokoban.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/overview-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/serialized-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/jacoco-sessions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/jacoco.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-it.unimol.sokoban.World.BoardTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-it.unimol.sokoban.World.BoardTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/it.unimol.sokoban.World.BoardTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/it.unimol.sokoban.World.BoardTest.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="48" column="76" lean-forward="true" selection-start-line="48" selection-start-column="76" selection-end-line="48" selection-end-column="76" />
+            <state relative-caret-position="306">
+              <caret line="48" column="76" selection-start-line="48" selection-start-column="76" selection-end-line="48" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -93,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.github/workflows/maven.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -115,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/.github/workflows/codeAnalysis">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+              <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -208,8 +164,8 @@
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java" />
         <option value="$PROJECT_DIR$/DockerFile" />
         <option value="$PROJECT_DIR$/.github/workflows/codeAnalysis" />
-        <option value="$PROJECT_DIR$/.github/workflows/maven.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.github/workflows/maven.yml" />
       </list>
     </option>
   </component>
@@ -310,7 +266,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611413254194" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611413611600" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_251/jre" />
@@ -587,21 +543,21 @@
     <entry file="file://$PROJECT_DIR$/.github/workflows/codeAnalysis">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="48" column="76" selection-start-line="48" selection-start-column="76" selection-end-line="48" selection-end-column="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.github/workflows/maven.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="48" column="76" lean-forward="true" selection-start-line="48" selection-start-column="76" selection-end-line="48" selection-end-column="76" />
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
         </state>
       </provider>
     </entry>
