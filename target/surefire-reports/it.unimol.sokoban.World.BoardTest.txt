@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: it.unimol.sokoban.World.BoardTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.317 s - in it.unimol.sokoban.World.BoardTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.31 s - in it.unimol.sokoban.World.BoardTest
