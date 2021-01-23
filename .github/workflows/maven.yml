@@ -37,4 +37,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: jar-artifact
-        path: target/build/Sokoban-1.0-SNAPSHOT.jar
+        path: build/Sokoban-1.0.jar
