@@ -22,7 +22,7 @@ public class Player extends Actor {
     private void initPlayer() {
         /** L'oggetto conterrà l'immagine del sokoban **/
         try{
-            InputStream in = getClass().getResourceAsStream("/my/sokoban.png");
+            InputStream in = getClass().getResourceAsStream("/sokoban.png");
             BufferedImage image = ImageIO.read(in);
             setImage(image);
         }catch (IOException e){
