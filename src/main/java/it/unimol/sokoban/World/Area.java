@@ -19,7 +19,7 @@ public class Area extends Actor {
 
     /** Metodo che crea l'area dove devono posizionarsi tutte le pedine **/
     private void initArea() {
-        ImageIcon iicon = new ImageIcon("area.png");
+        ImageIcon iicon = new ImageIcon("resources/area.png");
         Image image = iicon.getImage();
         setImage(image);
     }

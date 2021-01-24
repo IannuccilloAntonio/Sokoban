@@ -21,7 +21,7 @@ public class Wall extends Actor {
     /**Metodo che inizializza una muro settandone l'immagine
      * **/
     private void initWall() {
-        ImageIcon iicon = new ImageIcon("wall.png");
+        ImageIcon iicon = new ImageIcon("resources/wall.png");
         Image image = iicon.getImage();
         setImage(image);
     }
