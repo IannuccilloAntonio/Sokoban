@@ -2,8 +2,10 @@ package it.unimol.sokoban.World;
 
 import it.unimol.sokoban.Player.Actor;
 
-import java.awt.Image;
-import javax.swing.ImageIcon;
+import java.awt.image.BufferedImage;
+import java.io.IOException;
+import java.io.InputStream;
+import javax.imageio.ImageIO;
 
 /**Classe che crea un muro
  * @author Iannuccillo Antonio
@@ -21,8 +23,12 @@ public class Wall extends Actor {
     /**Metodo che inizializza una muro settandone l'immagine
      * **/
     private void initWall() {
-        ImageIcon iicon = new ImageIcon("resources/wall.png");
-        Image image = iicon.getImage();
-        setImage(image);
+        try{
+            InputStream in = getClass().getResourceAsStream("/wall.png");
+            BufferedImage image = ImageIO.read(in);
+            setImage(image);
+        }catch (IOException e){
+
+        }
     }
 }
