@@ -2,8 +2,10 @@ package it.unimol.sokoban.Player;
 
 import it.unimol.sokoban.Player.Actor;
 
-import java.awt.Image;
-import javax.swing.ImageIcon;
+import java.awt.image.BufferedImage;
+import java.io.IOException;
+import java.io.InputStream;
+import javax.imageio.ImageIO;
 
 /**Classe che crea e gestisce una pedina
  * @author Iannuccillo Antonio
@@ -20,9 +22,13 @@ public class Baggage extends Actor {
     /**Metodo che inizializza una pedina settandone l'immagine
      * **/
     private void initBaggage() {
-        ImageIcon iicon = new ImageIcon("resources/baggage.png");
-        Image image = iicon.getImage();
+        try{
+        InputStream in = getClass().getResourceAsStream("/baggage.png");
+        BufferedImage image = ImageIO.read(in);
         setImage(image);
+        }catch (IOException e){
+
+        }
     }
 
     /** Metodo che setta i movimenti di una pedina
