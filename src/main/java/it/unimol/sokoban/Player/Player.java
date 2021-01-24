@@ -1,7 +1,9 @@
 package it.unimol.sokoban.Player;
 
-import java.awt.Image;
-import javax.swing.ImageIcon;
+import java.awt.image.BufferedImage;
+import java.io.IOException;
+import java.io.InputStream;
+import javax.imageio.ImageIO;
 
 /**Classe che crea e gestisce un sokoban
  * @author Iannuccillo Antonio
@@ -19,9 +21,13 @@ public class Player extends Actor {
      * **/
     private void initPlayer() {
         /** L'oggetto conterrà l'immagine del sokoban **/
-        ImageIcon iicon = new ImageIcon("resources/sokoban.png");
-        Image image = iicon.getImage();
-        setImage(image);
+        try{
+            InputStream in = getClass().getResourceAsStream("/my/sokoban.png");
+            BufferedImage image = ImageIO.read(in);
+            setImage(image);
+        }catch (IOException e){
+
+        }
     }
 
     /** Metodo che setta i movimenti di una giocatore
