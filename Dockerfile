@@ -13,10 +13,10 @@ RUN apt-get install curl
 RUN apt-get install -y libxrender1 libxtst6 libxi6
 
 
-RUN curl -L -H "Authorization: token {{token}}" \
+RUN curl -L -H "Authorization: token 0ae389ece6921f4fa8561f097c99daac8f560511" \
     https://api.github.com/repos/IannuccilloAntonio/Sokoban/actions/artifacts/36858012/zip \
     --output ./jar-artifact.zip
 
 RUN unzip jar-artifact.zip && rm jar-artifact.zip
 
-CMD ["java", "-jar", "Sokoban-1.0.jar"]
+CMD ["java", "-Djava.awt.headless=true", "-jar", "Sokoban-1.0.jar"]

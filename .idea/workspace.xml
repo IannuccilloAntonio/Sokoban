@@ -2,10 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f11db020-633b-433a-9a1f-304a992bdaa5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/codeAnalysis" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/codeAnalysis" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Sokoban-1.0-SNAPSHOT-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sokoban.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sokoban.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Sokoban-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sokoban/Player/Actor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sokoban/Player/Baggage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sokoban/Player/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sokoban/Sokoban.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sokoban/World/Area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sokoban/World/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sokoban/World/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Sokoban-1.0-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Sokoban-1.0-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-checker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-checker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Player/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Player/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/Player/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unimol/sokoban/Player/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Actor.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Actor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Baggage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Baggage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Player.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/Player.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Actor.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Actor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Baggage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Baggage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Player.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/class-use/Player.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Player/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Sokoban.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/Sokoban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Area.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Area.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Wall.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/Wall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Area.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Area.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Wall.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/class-use/Wall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/World/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/class-use/Sokoban.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/class-use/Sokoban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/it/unimol/sokoban/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco-it/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco-it/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-it.unimol.sokoban.World.BoardTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-it.unimol.sokoban.World.BoardTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/it.unimol.sokoban.World.BoardTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/it.unimol.sokoban.World.BoardTest.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,61 +77,87 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+            <state relative-caret-position="199">
+              <caret line="134" column="30" selection-start-line="134" selection-start-column="30" selection-end-line="134" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/Player/Actor.java">
+        <entry file="file://$PROJECT_DIR$/target/site/spotbugs.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/Player/Player.java">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.github/workflows/codeAnalysis">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/World/Area.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/Sokoban.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Sokoban.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/World/Wall.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/World/Board.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/Player/Baggage.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Baggage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="204">
+              <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/checkstyle.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/checkstyle-result.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/checkstyle-checker.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -128,19 +211,20 @@
         <option value="$PROJECT_DIR$/src/test/java/it/unimol/sokoban/World/BoardTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/World/Area.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/World/Wall.java" />
-        <option value="$PROJECT_DIR$/checkstyle.xml" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Baggage.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Sokoban.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/World/Board.java" />
-        <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java" />
-        <option value="$PROJECT_DIR$/.github/workflows/codeAnalysis" />
         <option value="$PROJECT_DIR$/.github/workflows/maven.yml" />
         <option value="$PROJECT_DIR$/DockerFile" />
         <option value="$PROJECT_DIR$/src/main/resources/sokoban/Player/Baggage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/target/checkstyle-checker.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java" />
+        <option value="$PROJECT_DIR$/checkstyle.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.github/workflows/codeAnalysis" />
       </list>
     </option>
   </component>
@@ -171,6 +255,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,16 +263,77 @@
               <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sokoban" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name="Player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611420961010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611501526195" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_251/jre" />
@@ -249,7 +395,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,28 +524,11 @@
     <entry file="file://$PROJECT_DIR$/target/site/jacoco-it/jacoco.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Baggage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/javadoc-bundle-options/package-list">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/target/site/javadoc/apidocs/allclasses-frame.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Player.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -435,26 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Sokoban.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/checkstyle-result.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.github/workflows/codeAnalysis">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.github/workflows/maven.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -462,12 +571,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/checkstyle.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/Player/Actor.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/Player/Player.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -478,36 +583,90 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/Sokoban.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/World/Wall.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/World/Board.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/Player/Baggage.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/Player/Actor.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/checkstyle-checker.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/World/Board.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/site/checkstyle/checkstyle.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/checkstyle-result.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sokoban/World/Wall.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Baggage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Player/Actor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/unimol/sokoban/Sokoban.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkstyle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="134" column="30" selection-start-line="134" selection-start-column="30" selection-end-line="134" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/site/spotbugs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/codeAnalysis">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
         </state>
       </provider>
     </entry>
