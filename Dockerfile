@@ -13,8 +13,8 @@ RUN apt-get install curl
 RUN apt-get install -y libxrender1 libxtst6 libxi6
 
 
-RUN curl -L -H "Authorization: token c660430f0bf8c314b0d76e8009b25c812125117e" \
-    https://api.github.com/repos/IannuccilloAntonio/Sokoban/actions/artifacts/36954360/zip \
+RUN curl -L -H "Authorization: token 7bcf12fea3fec14b21a14d6bf3e2051b79d16601" \
+    https://api.github.com/repos/IannuccilloAntonio/Sokoban/actions/artifacts/36955993/zip \
     --output ./jar-artifact.zip
 
 RUN unzip jar-artifact.zip && rm jar-artifact.zip
