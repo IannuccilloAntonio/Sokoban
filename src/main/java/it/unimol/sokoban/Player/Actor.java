@@ -1,6 +1,7 @@
 package it.unimol.sokoban.Player;
 
 import java.awt.Image;
+import java.awt.image.BufferedImage;
 
 /**Classe che crea e gestisce sia sokoban che pedine
  * @author Iannuccillo Antonio
@@ -12,20 +13,21 @@ public class Actor {
 
     private int x;
     private int y;
-    private Image image;
+    private BufferedImage image;
 
     public Actor(int x, int y) {
         this.x = x;
         this.y = y;
     }
 
-    public Image getImage() {
+   public BufferedImage getImage() {
         return image;
     }
 
-    public void setImage(Image img) {
+    public void setImage(BufferedImage img) {
         image = img;
     }
+
     /** Posizioni x e y di un attore**/
 
     /**@return coordinate x**/
