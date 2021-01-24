@@ -1,9 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Sokoban,it.unimol.sokoban.Player,Baggage,17,19,0,0,5,7,1,2,1,2
-Sokoban,it.unimol.sokoban.Player,Actor,81,16,16,0,11,7,17,2,9,2
-Sokoban,it.unimol.sokoban.Player,Player,17,19,0,0,5,7,1,2,1,2
-Sokoban,it.unimol.sokoban.World,Wall,0,19,0,0,0,7,0,2,0,2
-Sokoban,it.unimol.sokoban.World,Board,543,154,95,10,117,51,57,12,6,5
-Sokoban,it.unimol.sokoban.World,Area,0,19,0,0,0,7,0,2,0,2
-Sokoban,it.unimol.sokoban.World,Board.TAdapter,106,6,24,0,32,1,15,1,1,1
-Sokoban,it.unimol.sokoban,Sokoban,47,0,0,0,17,0,4,0,4,0
