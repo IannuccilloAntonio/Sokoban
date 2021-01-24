@@ -41,9 +41,10 @@
 
         <resources>
             <resource>
-                <directory>src/main/java/it/unimol/sokoban</directory>
+                <directory>resources</directory>
             </resource>
         </resources>
+
         <plugins>
 
             <plugin>
@@ -53,7 +54,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>it.unimol.sokoban.Sokoban</mainClass>
+                            <mainClass>java.it.unimol.sokoban.Sokoban</mainClass>
                         </manifest>
                     </archive>
                     <outputDirectory>${project.basedir}/build</outputDirectory>

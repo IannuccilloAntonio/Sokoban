@@ -20,7 +20,7 @@ public class Baggage extends Actor {
     /**Metodo che inizializza una pedina settandone l'immagine
      * **/
     private void initBaggage() {
-        ImageIcon iicon = new ImageIcon("src/main/java/resources/baggage.png");
+        ImageIcon iicon = new ImageIcon("resources/baggage.png");
         Image image = iicon.getImage();
         setImage(image);
     }

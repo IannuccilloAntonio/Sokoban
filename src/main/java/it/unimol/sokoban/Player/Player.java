@@ -19,7 +19,7 @@ public class Player extends Actor {
      * **/
     private void initPlayer() {
         /** L'oggetto conterrà l'immagine del sokoban **/
-        ImageIcon iicon = new ImageIcon("src/main/java/resources/sokoban.png");
+        ImageIcon iicon = new ImageIcon("resources/sokoban.png");
         Image image = iicon.getImage();
         setImage(image);
     }
