@@ -2,8 +2,10 @@ package it.unimol.sokoban.World;
 
 import it.unimol.sokoban.Player.Actor;
 
-import java.awt.Image;
-import javax.swing.ImageIcon;
+import java.awt.image.BufferedImage;
+import java.io.IOException;
+import java.io.InputStream;
+import javax.imageio.ImageIO;
 
 /**Classe che crea l'area dove posizionare le pedine
  * @author Iannuccillo Antonio
@@ -19,8 +21,12 @@ public class Area extends Actor {
 
     /** Metodo che crea l'area dove devono posizionarsi tutte le pedine **/
     private void initArea() {
-        ImageIcon iicon = new ImageIcon("resources/area.png");
-        Image image = iicon.getImage();
-        setImage(image);
+        try{
+            InputStream in = getClass().getResourceAsStream("/area.png");
+            BufferedImage image = ImageIO.read(in);
+            setImage(image);
+        }catch (IOException e){
+
+        }
     }
 }
