@@ -54,7 +54,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>src.main.java.it.unimol.sokoban.Sokoban</mainClass>
+                            <mainClass>it.unimol.sokoban.Sokoban</mainClass>
                         </manifest>
                     </archive>
                     <outputDirectory>${project.basedir}/build</outputDirectory>
